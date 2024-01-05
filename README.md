@@ -1,4 +1,4 @@
-# Web Programming HW#1
+# My-Diary
 
 ## Run the project
 If you only want to run the project, you can follow the steps below.
